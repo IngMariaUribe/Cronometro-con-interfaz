@@ -1,5 +1,7 @@
 #Cronometro
+
 ##Integrantes
+
 * Yeimer Serrano        -20181020060
 * Juan David Rosero     -20181020071
 * Maria Fernanda Uribe  -20172020110
